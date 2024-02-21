@@ -23,8 +23,6 @@ Tenho conhecimento em modelagem 3D, animação, UI e UX e Sistemas operacionais 
 <img align="left" width="40" height="40" src=".\img\html5.png">
 <img align="left" width="40" height="40" src=".\img\css3.png">
 <img align="left" width="40" height="40" src=".\img\vscode.png">
-<img align="left" width="40" height="40" src=".\img\git.png">
-<img align="left" width="40" height="40" src=".\img\github.png">
 <img align="left" width="40" height="40" src=".\img\Cinema4d.png">
 <img align="left" width="40" height="40" src=".\img\blender.png">
 <img align="left" width="40" height="40" src=".\img\ps.png">
