@@ -10,7 +10,7 @@
 <p>Tenho 21 anos e sou estudante de T.I no Senac. Trabalho com info design, música e engenharia de áudio. 
 Tenho conhecimento em modelagem 3D, animação, UI e UX e Sistemas operacionais Windows e Linux Mint.
 </p>
-<br><br><br><br><br><br>
+<br><br>
 
 ### Se quiser ver meus estudos e projetos sinta-se livre para acessar meus repositórios fixos e minhas redes sociais
 <a href="https://github.com/Lucas-Santos-Da-Silva?tab=repositories"><img align="left" width="50" height="50" src=".\img\parrot.gif"></a>
