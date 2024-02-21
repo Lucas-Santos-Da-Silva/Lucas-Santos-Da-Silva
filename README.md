@@ -2,7 +2,7 @@
 <img align="right" width="50" height="50" src=".\img\htmltags.gif">
 
 ### Repositório pessoal, com informações de meu perfil acadêmico e profissional.
-<br><br><br>
+<br><br>
 <img align="left" width="125" height="125" src=".\img\lucas.png">
 
 #### Apresentação 
