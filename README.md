@@ -10,15 +10,17 @@
 Tenho 21 anos e sou estudante de T.I no Senac. Trabalho com info design, música e engenharia de áudio. <br>
 Tenho conhecimento em modelagem 3D, animação, UI e UX e Sistemas operacionais Windows e Linux Mint.<br>
 <br><br><br>
+<a href="[./index.html](https://github.com/Lucas-Santos-Da-Silva?tab=repositories)"><img align="right" width="50" height="50" src=".\img\parrot.gif"></a>
 
 #### Se quiser ver meus estudos e projetos sinta-se livre para acessar meus repositórios fixos e minhas redes sociais.
+<br><br>
+### Ferramentas que utilizo
 <img align="left" width="50" height="50" src=".\img\linuxmint.png">
 <img align="left" width="50" height="50" src=".\img\html5.png">
 <img align="left" width="50" height="50" src=".\img\css3.png">
 <img align="left" width="50" height="50" src=".\img\vscode.png">
 <img align="left" width="50" height="50" src=".\img\git.png">
 <img align="left" width="50" height="50" src=".\img\github.png">
-<img align="right" width="50" height="50" src=".\img\parrot.gif">
 <img align="left" width="50" height="50" src=".\img\Cinema4d.png">
 <img align="left" width="50" height="50" src=".\img\blender.png">
 <img align="left" width="50" height="50" src=".\img\ps.png">
