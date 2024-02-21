@@ -15,6 +15,8 @@ Tenho conhecimento em modelagem 3D, animação, UI e UX e Sistemas operacionais 
 #### Se quiser ver meus estudos e projetos sinta-se livre para acessar meus repositórios fixos e minhas redes sociais.
 
 <a href="https://github.com/Lucas-Santos-Da-Silva?tab=repositories"><img align="left" width="50" height="50" src=".\img\parrot.gif"></a>
+<br>
+<i>"Clique em mim para ver meus repositórios!"</i>
 <br><br>
 
 ### Ferramentas que utilizo
