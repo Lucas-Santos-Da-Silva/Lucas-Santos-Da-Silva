@@ -1,22 +1,25 @@
-# lucasSantos
-Tenho 21 anos e sou estudante de T.I no Senac. 
-Na área academica tenho experiência em: 
-Montagem e manutenção de hardware 
-Sistemas operacionais Windows, Linux Mint, Ubuntu e Fedora.
-Modelagem 3D
-Animação
-UI e UX
-Arte
-Game design
+## Lucas Santos
+<img align="right" width="50" height="50" src=".\img\htmltags.gif">
 
-Tenho estudado de forma autonoma: 
-Inglês 
-Edição de video
-Info design 
-Engenharia de áudio 
-produção músical e composição
+### Repositório pessoal, com informações de meu perfil acadêmico e profissional.
 
-Na área profissional eu tenho experiência em:
-Modelagem 3D, edição de video, animação, info design e música.
+<img align="left" width="100" height="100" src=".\img\lucas.png">
 
+#### Apresentação 
 
+Tenho 21 anos e sou estudante de T.I no Senac. Trabalho com info design, música e engenharia de áudio. Tenho conhecimento em modelagem 3D, animação, UI e UX e Sistemas operacionais Windows e Linux Mint.<br>
+<br><br><br>
+
+#### Se quiser ver meus estudos e projetos sinta-se livre para acessar meus repositórios fixos e minhas redes sociais.
+<img align="left" width="50" height="50" src=".\img\linuxmint.png">
+<img align="left" width="50" height="50" src=".\img\html5.png">
+<img align="left" width="50" height="50" src=".\img\css3.png">
+<img align="left" width="50" height="50" src=".\img\vscode.png">
+<img align="left" width="50" height="50" src=".\img\git.png">
+<img align="left" width="50" height="50" src=".\img\github.png">
+<img align="right" width="50" height="50" src=".\img\parrot.gif">
+<img align="left" width="50" height="50" src=".\img\Cinema4d.png">
+<img align="left" width="50" height="50" src=".\img\blender.png">
+<img align="left" width="50" height="50" src=".\img\ps.png">
+<img align="left" width="50" height="50" src=".\img\flstudio.png">
+<img align="left" width="50" height="50" src=".\img\audacity.png">
