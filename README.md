@@ -24,3 +24,5 @@ Tenho conhecimento em modelagem 3D, animação, UI e UX e Sistemas operacionais 
 <img align="left" width="50" height="50" src=".\img\ps.png">
 <img align="left" width="50" height="50" src=".\img\flstudio.png">
 <img align="left" width="50" height="50" src=".\img\audacity.png">
+<br><br><br>
+<img align="center" width="1000" height="75" src=".\img\pacman.gif">
