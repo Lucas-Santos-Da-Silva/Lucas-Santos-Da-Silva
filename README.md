@@ -3,7 +3,7 @@
 
 ### Repositório pessoal, com informações de meu perfil acadêmico e profissional.
 
-<img align="left" width="100" height="100" src=".\img\lucas.png">
+<img align="left" width="125" height="125" src=".\img\lucas.png">
 
 #### Apresentação 
 
