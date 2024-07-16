@@ -7,8 +7,8 @@
 
 #### Apresentação 
 
-<p>Tenho 21 anos e sou estudante de T.I no Senac. Trabalho com info design, música e engenharia de áudio. 
-Tenho conhecimento em modelagem 3D, animação, UI e UX e Sistemas operacionais Windows e Linux Mint.
+<p>Tenho 21 anos e sou estudante de T.I no Senac. Trabalho com info design e música. 
+Tenho conhecimento em modelagem 3D, animação, UI e UX, desenvolvimento de sites, Sistemas operacionais Windows e Linux Mint e conhecimento básico de programação em Java Script, C# e Python.
 </p>
 <br><br>
 
