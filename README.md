@@ -7,8 +7,8 @@
 
 #### Apresentação 
 
-<p>Tenho 21 anos e sou estudante de T.I no Senac. Trabalho com info design e música. 
-Tenho conhecimento em modelagem 3D, animação, UI e UX, desenvolvimento de sites, Sistemas operacionais Windows e Linux Mint e conhecimento básico de programação em Java Script, C# e Python.
+<p>Tenho 22 anos e sou estudante de Engenharia da computação na FMU. Trabalho com info design. 
+Tenho conhecimento em modelagem 3D, animação, UI e UX, desenvolvimento de sites, Sistemas operacionais Windows e Linux Mint, conhecimento intermediário de programação em Java Script e conhecimento básico em C, C# e Python.
 </p>
 <br><br>
 
